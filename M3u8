@@ -1,0 +1,615 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://puu.sh/rR8Rh/2dc99880ec.png" group-title="España",13tv
+http://m3u.iptvla.xyz/usuarios/src4/13tv/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reIHx/6250def099.png" group-title="Entretenimiento",A&E
+http://m3u.iptvla.xyz/usuarios/src1/AEHD/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xnPDd/ef771257b3.png" group-title="Entretenimiento",A3Series
+http://m3u.iptvla.xyz/usuarios/src4/A3Series/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reOMY/299b932afa.png" group-title="Noticias",ABC News
+http://m3u.iptvla.xyz/usuarios/src4/ABCNews/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xuJBp/5d44dd9abb.png" group-title="Noticias",ADN 40
+http://m3u.iptvla.xyz/usuarios/src4/ADN40/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/rePoj/7d9227ef45.png" group-title="Religion",Alcance TV
+http://m3u.iptvla.xyz/usuarios/src4/AlcanceTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xh2SQ/6a026e0f97.png" group-title="Entretenimiento",Alf 24/7
+http://m3u.iptvla.xyz/usuarios/src3/Alf/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reISf/109c22d7a8.png" group-title="Musica",Amazing Music
+http://m3u.iptvla.xyz/usuarios/src4/AmazingMusic/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reJ15/8c1d70d8e8.png" group-title="Entretenimiento",AMC
+http://m3u.iptvla.xyz/usuarios/src1/AMC/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reJpA/bdc45a314f.png" group-title="Cultura",Animal Planet
+http://m3u.iptvla.xyz/usuarios/src1/AnimalPlanet/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reOH2/342ff546e5.png" group-title="Entretenimiento",Anime 24H
+http://m3u.iptvla.xyz/usuarios/src4/Anime24H/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reJwa/b94498a38e.png" group-title="España",Antena 3
+http://m3u.iptvla.xyz/usuarios/src4/Antena3/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reNoV/a0a6c77c7c.png" group-title="Brasil",Aparecida Brasil
+http://m3u.iptvla.xyz/usuarios/src4/AparecidaBrasil/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/tqWGU/8642e69f30.png" group-title="Noticias",Aristegui Noticias
+http://m3u.iptvla.xyz/usuarios/src4/AristeguiNoticias/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reJCz/838424c918.png" group-title="Entretenimiento",AXN
+http://m3u.iptvla.xyz/usuarios/src5/AXN/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reK1Q/e9a03ded2c.png" group-title="Deportes",AyM Sports
+http://m3u.iptvla.xyz/usuarios/src5/AyMSports/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reKEj/7d9a634b74.png" group-title="Peliculas",Az Cinema
+http://m3u.iptvla.xyz/usuarios/src4/AzCinema/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reKF3/42c6f26362.png" group-title="Entretenimiento",Az Clic
+http://m3u.iptvla.xyz/usuarios/src4/AzClic/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reKy9/756ca89d9b.png" group-title="Entretenimiento",Az Corazón
+http://m3u.iptvla.xyz/usuarios/src1/AzCorazon/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/wcPRU/132561d945.png" group-title="Mexico",Azteca +
+http://m3u.iptvla.xyz/usuarios/src4/AztecaMas/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reLDm/98e719eba9.png" group-title="Mexico",Azteca 13
+http://m3u.iptvla.xyz/usuarios/src4/Azteca13/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reLDm/98e719eba9.png" group-title="Mexico",Azteca 13 Op. 2
+http://m3u.iptvla.xyz/usuarios/src1/Azteca13_2/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reLCX/937b00396a.png" group-title="Mexico",Azteca 7
+http://m3u.iptvla.xyz/usuarios/src1/Azteca7/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLxU/786687775b.png" group-title="Infantiles",Baby TV
+http://m3u.iptvla.xyz/usuarios/src5/BabyTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reMxG/4ecbfd73b8.png" group-title="Musica",Bandamax
+http://m3u.iptvla.xyz/usuarios/src1/Bandamax/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reMym/28fb4e2cc5.png" group-title="Entretenimiento",BBC Entertainment
+http://m3u.iptvla.xyz/usuarios/src1/BBCEntertainment/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0JHT/45b6bfb352.png" group-title="Deportes",BeinSports
+http://m3u.iptvla.xyz/usuarios/src5/BeinSports/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0JHT/45b6bfb352.png" group-title="Deportes",BeinSports 1
+http://m3u.iptvla.xyz/usuarios/src5/Deportes1/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0JJ6/5bab3d7e79.png" group-title="Deportes",BeinSports Ñ
+http://m3u.iptvla.xyz/usuarios/src5/BeinSportsN/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0JJ6/5bab3d7e79.png" group-title="Deportes",BeinSports Ñ HD
+http://m3u.iptvla.xyz/usuarios/src5/Bein/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reMzt/5760bb9648.png" group-title="Noticias",Bloomberg
+http://m3u.iptvla.xyz/usuarios/src4/Bloomberg/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/y0Qah/26ddc7291a.png" group-title="Entretenimiento",Bob Esponja 24/7
+http://m3u.iptvla.xyz/usuarios/src3/BobEsponja/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reMA0/0021d6fded.png" group-title="Infantiles",Boomerang
+http://m3u.iptvla.xyz/usuarios/src1/Boomerang/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xh2Xv/015ef8314e.png" group-title="Entretenimiento",Caballeros del Zodiaco 24/7
+http://m3u.iptvla.xyz/usuarios/src3/CaballerosDelZodiaco/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reNqn/23a93575f2.png" group-title="Colombia",Cali TV
+http://m3u.iptvla.xyz/usuarios/src4/CaliTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reNr1/8c97dd3fc3.png" group-title="Nicaragua",Canal 2 Televicentro
+http://m3u.iptvla.xyz/usuarios/src4/Canal2Televicentro/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nB4aq/6b5ee1d45c.png" group-title="Mexico",Canal 22
+http://m3u.iptvla.xyz/usuarios/src4/Canal22/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/rePCK/d7e50582cf.png" group-title="Mexico",Canal 5
+http://m3u.iptvla.xyz/usuarios/src1/Canal5/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reIIU/e589dfb963.png" group-title="Mexico",Canal de las Estrellas
+http://m3u.iptvla.xyz/usuarios/src4/CanaldelasEstrellas2/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reIIU/e589dfb963.png" group-title="Mexico",Canal de las Estrellas
+http://m3u.iptvla.xyz/usuarios/src5/CanaldelasEstrellas/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reIIU/e589dfb963.png" group-title="Mexico",Canal de las Estrellas Latinoamerica
+http://m3u.iptvla.xyz/usuarios/src4/CanaldelasEstrellas2/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/tcJl2/2d75fc4a4e.png" group-title="España",Canal+ Accion
+http://m3u.iptvla.xyz/usuarios/src5/MoviAccion/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/tcOG4/b50561a985.png" group-title="Deportes",Canal+ Toros
+http://m3u.iptvla.xyz/usuarios/src5/Toros/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/rePTT/3cd2455552.png" group-title="Musica",Cantinazo TV
+http://m3u.iptvla.xyz/usuarios/src4/CantinazoTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xh3mA/c21f8c4da2.png" group-title="Entretenimiento",Cantinflas 24/7
+http://m3u.iptvla.xyz/usuarios/src3/Cantinflas/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nB47o/1193f4ab34.png" group-title="Mexico",Capital 21 CDMX
+http://m3u.iptvla.xyz/usuarios/src4/Capital21CDMX/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reNIz/9bf443e55b.png" group-title="Musica",Capital TV
+http://m3u.iptvla.xyz/usuarios/src4/CapitalTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/ue7h2/8abe1668dc.png" group-title="Entretenimiento",Caracol
+http://m3u.iptvla.xyz/usuarios/src5/Caracol/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/ue7h2/8abe1668dc.png" group-title="Entretenimiento",Caracol Op. 2
+http://m3u.iptvla.xyz/usuarios/src4/Caracol2/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/rePWc/83c5918f24.png" group-title="Infantiles",Cartoon Network
+http://m3u.iptvla.xyz/usuarios/src1/CartoonNetwork/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nC0HE/3b9c4c7f0a.png" group-title="Costa Rica",CB24 Noticias
+http://m3u.iptvla.xyz/usuarios/src4/CB24Noticias/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mwdGb/5d2fd767c6.png" group-title="Infantiles",CBeebies
+http://m3u.iptvla.xyz/usuarios/src1/CBeebies/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/qd28n/94dbf1c3c2.png" group-title="Deportes",CDF Premium
+http://m3u.iptvla.xyz/usuarios/src5/CDFPremium/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nu1Z9/cfd308d7b6.png" group-title="Deportes",CDN Sportmax
+http://m3u.iptvla.xyz/usuarios/src5/CDNSportmax/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xTXlK/cf29aae39b.png" group-title="Deportes",CDO
+http://m3u.iptvla.xyz/usuarios/src5/CDO/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/vxksw/b00f44cfc3.png" group-title="Deportes",CDO Premium
+http://m3u.iptvla.xyz/usuarios/src4/CDOPremium/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xafKk/eee533500f.png" group-title="Entretenimiento",Chapulin Colorado 24/7
+http://m3u.iptvla.xyz/usuarios/src3/ChapulinColorado/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xa4qU/11783de34f.jpg" group-title="Entretenimiento",Chespirito 24/7
+http://m3u.iptvla.xyz/usuarios/src3/Chespirito/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nib8d/ebcc035c90.png" group-title="Colombia",Chilevision
+http://m3u.iptvla.xyz/usuarios/src4/Chilevision/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0JYV/cb7bb13579.png" group-title="Peliculas",Cinecanal+
+http://m3u.iptvla.xyz/usuarios/src1/CinecanalHD/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reQvi/55e4d2dd67.png" group-title="Peliculas",Cinemax
+http://m3u.iptvla.xyz/usuarios/src1/Cinemax/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0JU8/ba16e8a9dc.png" group-title="Deportes",Claro Sports
+http://m3u.iptvla.xyz/usuarios/src5/ClaroSports/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0JOO/262520c318.png" group-title="Noticias",CNN en Español
+http://m3u.iptvla.xyz/usuarios/src5/CNNenEspanol/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/yfyWG/dec906e5e0.png" group-title="Deportes",CNT Sports
+http://m3u.iptvla.xyz/usuarios/src5/CNTSports/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reQTV/a720355f03.png" group-title="Entretenimiento",Comedy Central HD
+http://m3u.iptvla.xyz/usuarios/src1/ComedyCentralHD/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/y0QcL/bd8a53a641.png" group-title="Entretenimiento",Coraje el Perro Cobarde 24/7
+http://m3u.iptvla.xyz/usuarios/src3/CorajeCobarde/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mKFpp/77be8fe6f9.png" group-title="Chile",CTNI
+http://m3u.iptvla.xyz/usuarios/src4/CTNI/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reQVf/4dc9bf5f4d.png" group-title="Peliculas",De Película
+http://m3u.iptvla.xyz/usuarios/src1/DePelicula/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reQVU/0c8e61f2a0.png" group-title="Deportes",DeporTV
+http://m3u.iptvla.xyz/usuarios/src4/DeporTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0K2y/50abce3179.png" group-title="Deportes",DirectTV Sports
+http://m3u.iptvla.xyz/usuarios/src5/DirectTVSports/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRUc/d3099fe256.png" group-title="Cultura",Discovery Channel
+http://m3u.iptvla.xyz/usuarios/src1/DiscoveryChannel/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRVX/09b104b39b.png" group-title="Cultura",Discovery Civilization
+http://m3u.iptvla.xyz/usuarios/src1/DiscoveryCivilization/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRWX/1a8a31aab2.png" group-title="Cultura",Discovery H&H
+http://m3u.iptvla.xyz/usuarios/src1/DiscoveryHH/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRXX/7e741b9363.png" group-title="Infantiles",Discovery Kids
+http://m3u.iptvla.xyz/usuarios/src1/DiscoveryKids/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRYB/986cacfcf9.png" group-title="Cultura",Discovery SCI
+http://m3u.iptvla.xyz/usuarios/src1/DiscoverySCI/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRZf/b724b419e5.png" group-title="Cultura",Discovery Theater HD
+http://m3u.iptvla.xyz/usuarios/src1/DiscoveryTheaterHD/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRZC/14ff477422.png" group-title="Cultura",Discovery Turbo
+http://m3u.iptvla.xyz/usuarios/src1/DiscoveryTurbo/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reS0X/3496f4a93c.png" group-title="Cultura",Discovery World
+http://m3u.iptvla.xyz/usuarios/src1/DiscoveryWorld/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reSoT/ff01278d6c.png" group-title="Infantiles",Disney Channel
+http://m3u.iptvla.xyz/usuarios/src1/DisneyChannel/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reSpf/d906cbcd81.png" group-title="Infantiles",Disney Junior
+http://m3u.iptvla.xyz/usuarios/src1/DisneyJunior/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reSum/21ca73f9ad.png" group-title="Infantiles",Disney XD
+http://m3u.iptvla.xyz/usuarios/src1/DisneyXD/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reSse/a7ab00d18b.png" group-title="Entretenimiento",Distrito Comedia
+http://m3u.iptvla.xyz/usuarios/src1/DistritoComedia/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reX5m/b3add2d39c.png" group-title="Musica",Djing Ibiza
+http://m3u.iptvla.xyz/usuarios/src4/DjingIbiza/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/y0Qge/fc4c8e50a1.png" group-title="Entretenimiento",Doraemon 24/7
+http://m3u.iptvla.xyz/usuarios/src3/Doraemon/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/qGkkr/73e0bc98cc.png" group-title="Entretenimiento",Dragon Ball 24/7
+http://m3u.iptvla.xyz/usuarios/src3/DragonBall/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/y0QeE/1434713f13.png" group-title="Entretenimiento",Dragon Ball GT 24/7
+http://m3u.iptvla.xyz/usuarios/src3/DragonBallGT/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xa5W8/e0f4f580f8.png" group-title="Entretenimiento",Dragon Ball Super 24/7
+http://m3u.iptvla.xyz/usuarios/src3/DragonBallSuper/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xdUYa/051eb44501.png" group-title="Entretenimiento",Dragon Ball Z 24/7
+http://m3u.iptvla.xyz/usuarios/src4/DragonBallZ/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xdUYa/051eb44501.png" group-title="Entretenimiento",Dragon Ball Z 24/7 Op.2 
+http://m3u.iptvla.xyz/usuarios/src3/DragonBallZ2/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/wcPrG/9210f60017.png" group-title="Noticias",DW Latinoamerica
+http://m3u.iptvla.xyz/usuarios/src4/DW/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/vKPy9/b41ea1c700.png" group-title="Entretenimiento",E!
+http://m3u.iptvla.xyz/usuarios/src1/EEntertainment/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/qdjzc/80bea07471.png" group-title="Ecuador",Ecuavisa
+http://m3u.iptvla.xyz/usuarios/src5/Ecuavisa/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/o2sV5/e9d51a4646.png" group-title="Noticias",Efekto TV
+http://m3u.iptvla.xyz/usuarios/src4/EfektoTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrsi/e45af55c18.png" group-title="Argentina",El 13 Argentina
+http://m3u.iptvla.xyz/usuarios/src4/El13Argentina/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/vnC7J/3851e472fd.png" group-title="Entretenimiento",El Chavo del 8 24/7
+http://m3u.iptvla.xyz/usuarios/src3/ElChavoDel8/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xh3aM/99b7a95076.png" group-title="Entretenimiento",El Coyote y el Correcaminos 24/7
+http://m3u.iptvla.xyz/usuarios/src3/ElCoyoteYElCorrecaminos/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mB9sC/7f84152b4b.png" group-title="Entretenimiento",El Gourmet
+http://m3u.iptvla.xyz/usuarios/src1/ElGourmet/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/y0Ql2/5551c6c491.png" group-title="Entretenimiento",El Pajaro Loco 24/7
+http://m3u.iptvla.xyz/usuarios/src3/ElPajaroLoco/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xh3eu/503d8c2925.png" group-title="Entretenimiento",El Principel del Rap 24/7
+http://m3u.iptvla.xyz/usuarios/src3/ElPrincipeDelRap/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mKFvL/1137b892f2.png" group-title="Religion",Enlace Juvenil
+http://m3u.iptvla.xyz/usuarios/src4/EnlaceJuvenil/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mKFtG/9926077bd4.png" group-title="Religion",Enlace TV
+http://m3u.iptvla.xyz/usuarios/src4/EnlaceTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mVU7r/07c337d6d2.png" group-title="Deportes",ESPN
+http://m3u.iptvla.xyz/usuarios/src1/ESPN/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGSP/45ab2c58f3.png" group-title="Deportes",ESPN 2
+http://m3u.iptvla.xyz/usuarios/src1/ESPN2/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mVU2h/af6a5cd998.png" group-title="Deportes",ESPN HD
+http://m3u.iptvla.xyz/usuarios/src1/ESPNHD/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mOIol/245d8b9954.png" group-title="Entretenimiento",Estrella TV
+http://m3u.iptvla.xyz/usuarios/src4/EstrellaTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/o8YqX/a6422189de.png" group-title="Noticias",Euronews
+http://m3u.iptvla.xyz/usuarios/src4/Euronews/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbHgb/7d8bedf60f.png" group-title="Deportes",Eurosport
+http://m3u.iptvla.xyz/usuarios/src4/Eurosport/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbHiL/103f904674.png" group-title="Deportes",Eurosport 2
+http://m3u.iptvla.xyz/usuarios/src4/Eurosport2/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mwe48/0f14e712dd.png" group-title="Religion",EWTN
+http://m3u.iptvla.xyz/usuarios/src4/EWTN/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mVSZn/64f2fe6f36.png" group-title="Deportes",F1 TV
+http://m3u.iptvla.xyz/usuarios/src5/F1TV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbG2w/8a16d4b59b.png" group-title="Peliculas",Film Zone HD
+http://m3u.iptvla.xyz/usuarios/src1/FilmZoneHD/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0Klk/fed684884d.png" group-title="Noticias",Foro TV
+http://m3u.iptvla.xyz/usuarios/src4/ForoTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reNQW/00bf0aa6a6.png" group-title="Entretenimiento",Fox
+http://m3u.iptvla.xyz/usuarios/src5/Fox/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/vKOoW/0e3448eeac.png" group-title="Entretenimiento",Fox 1 HD
+http://m3u.iptvla.xyz/usuarios/src1/Fox1HD/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0LeC/595dce70c8.png" group-title="Peliculas",Fox Action
+http://m3u.iptvla.xyz/usuarios/src1/FoxAction/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0Lfh/cb3dc80116.png" group-title="Peliculas",Fox Cinema
+http://m3u.iptvla.xyz/usuarios/src1/FoxCinema/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0LgF/b9ad9de588.png" group-title="Peliculas",Fox Classics
+http://m3u.iptvla.xyz/usuarios/src1/FoxClassics/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0LhV/e129909584.png" group-title="Peliculas",Fox Family
+http://m3u.iptvla.xyz/usuarios/src5/FoxFamily/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0LCi/4271953f95.png" group-title="Entretenimiento",Fox Life
+http://m3u.iptvla.xyz/usuarios/src1/FoxLife/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0LiH/f26860a2c8.png" group-title="Peliculas",Fox Movies
+http://m3u.iptvla.xyz/usuarios/src1/FoxMovies/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reNQW/00bf0aa6a6.png" group-title="Entretenimiento",Fox Op. 2
+http://m3u.iptvla.xyz/usuarios/src5/Fox2/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGZ1/47e0e1e430.png" group-title="Deportes",Fox Sports
+http://m3u.iptvla.xyz/usuarios/src1/FoxSports/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mwe6K/af7e32f4e0.png" group-title="Deportes",Fox Sports 2
+http://m3u.iptvla.xyz/usuarios/src1/FoxSports2/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xTXkN/af837fadb2.png" group-title="Deportes",Fox Sports Premium
+http://m3u.iptvla.xyz/usuarios/src5/FoxSportsPremium/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGZ1/47e0e1e430.png" group-title="Deportes",Fox Sports Sur
+http://m3u.iptvla.xyz/usuarios/src5/FoxSportsSur/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGZ1/47e0e1e430.png" group-title="Deportes",Fox Sports Sur 2
+http://m3u.iptvla.xyz/usuarios/src5/FoxSportsSur2/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLmr/bfa50e6e5c.png" group-title="Deportes",Fox Sports Sur 3
+http://m3u.iptvla.xyz/usuarios/src5/FoxSportsSur3/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb4NT/0decb9f5fd.png" group-title="Entretenimiento",FX
+http://m3u.iptvla.xyz/usuarios/src1/FX/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw4Uk/65b3f604c7.png" group-title="Mexico",Gala TV
+http://m3u.iptvla.xyz/usuarios/src1/GalaTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xUVfc/26d2b37843.png" group-title="Entretenimiento",Game of Thrones 24/7
+http://m3u.iptvla.xyz/usuarios/src3/GameOfThrones/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mB9id/079a770640.png" group-title="Entretenimiento",Garage TV
+http://m3u.iptvla.xyz/usuarios/src1/GarageTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mB9Dx/327016dd4e.png" group-title="Entretenimiento",Glitz
+http://m3u.iptvla.xyz/usuarios/src1/Glitz/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xTXBk/e416453d72.png" group-title="Deportes",Gol TV
+http://m3u.iptvla.xyz/usuarios/src5/GolTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xTXCd/6ded5f3734.png" group-title="Deportes",Gol TV HD
+http://m3u.iptvla.xyz/usuarios/src5/GolTVHD/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGed/1b8cc10b54.png" group-title="Peliculas",Golden Edge
+http://m3u.iptvla.xyz/usuarios/src1/GoldenEdge/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw4XE/6a57b1ac9a.png" group-title="Peliculas",Golden HD
+http://m3u.iptvla.xyz/usuarios/src1/GoldenHD/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLha/55295e0162.PNG" group-title="Cultura",H2
+http://m3u.iptvla.xyz/usuarios/src5/H2/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/wXpBG/491f7e6a2e.png" group-title="Peliculas",HBO
+http://m3u.iptvla.xyz/usuarios/src5/HBO/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/wXpDv/c09197c8e2.png" group-title="Peliculas",HBO 2
+http://m3u.iptvla.xyz/usuarios/src5/HBO2/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0LNH/b051be378d.png" group-title="Peliculas",HBO Family
+http://m3u.iptvla.xyz/usuarios/src5/HBOFamily/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0Mur/9f910f41f2.png" group-title="Peliculas",HBO Plus
+http://m3u.iptvla.xyz/usuarios/src5/HBOPlus/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nB5xX/247b3cc965.png" group-title="Musica",Heart TV
+http://m3u.iptvla.xyz/usuarios/src4/HeartTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/y0QgW/470f001647.png" group-title="Entretenimiento",Hey Arnold 24/7
+http://m3u.iptvla.xyz/usuarios/src3/HeyArnold/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/m9UfE/5bb8480ed7.png" group-title="Cultura",History Channel
+http://m3u.iptvla.xyz/usuarios/src1/HistoryChannel/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nsW7K/e33f64daeb.png" group-title="Musica",Hit TV
+http://m3u.iptvla.xyz/usuarios/src4/HitTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mVSCC/1dcc9fd950.png" group-title="Entretenimiento",Hola TV
+http://m3u.iptvla.xyz/usuarios/src4/HolaTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLLx/11d03250f6.png" group-title="Musica",HTV
+http://m3u.iptvla.xyz/usuarios/src5/HTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mB8rQ/e887276399.png" group-title="Peliculas",I.Sat
+http://m3u.iptvla.xyz/usuarios/src1/ISat/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mwdyP/2a4e5a7045.png" group-title="Cultura",Investigation Discovery
+http://m3u.iptvla.xyz/usuarios/src1/InvestigationDiscovery/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nB44g/098e405622.png" group-title="Musica",Juce TV
+http://m3u.iptvla.xyz/usuarios/src4/JuceTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/qwMC0/376cc81b30.png" group-title="España",La Sexta
+http://m3u.iptvla.xyz/usuarios/src4/LaSexta/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mwqy1/9feaee8770.png" group-title="Entretenimiento",Lifetime
+http://m3u.iptvla.xyz/usuarios/src1/Lifetime/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/y0Qk3/1467bbdb22.png" group-title="Entretenimiento",Looney Tunes 24/7
+http://m3u.iptvla.xyz/usuarios/src3/LooneyTunes/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xa5Ns/e9ca28e7a5.png" group-title="Entretenimiento",Los 3 Chiflados 24/7
+http://m3u.iptvla.xyz/usuarios/src3/Los3Chiflados/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/s2xL8/b732aa9e6c.png" group-title="Entretenimiento",Los Simpson 2 24/7
+http://m3u.iptvla.xyz/usuarios/src4/LosSimpson2/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/s2xL8/b732aa9e6c.png" group-title="Entretenimiento",Los Simpson 24/7
+http://m3u.iptvla.xyz/usuarios/src5/LosSimpson/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nsWwi/c18fe4842e.png" group-title="Musica",m2o TV
+http://m3u.iptvla.xyz/usuarios/src4/m2oTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mP20o/154ed6c1a3.png" group-title="Entretenimiento",Más chic
+http://m3u.iptvla.xyz/usuarios/src1/Maschic/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbMc2/7317d4746c.png" group-title="Peliculas",Max Prime
+http://m3u.iptvla.xyz/usuarios/src5/MaxPrime/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbM9Q/075938049b.png" group-title="Peliculas",Max Up
+http://m3u.iptvla.xyz/usuarios/src5/MaxUp/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/rR8N3/9ca59d233e.png" group-title="España",Mega (España)
+http://m3u.iptvla.xyz/usuarios/src4/MegaEspana/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xW4oN/70b72103bc.png" group-title="Peliculas",MegaCine HD
+http://m3u.iptvla.xyz/usuarios/src5/MegaCineHD/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mNvBc/cad6baaa87.png" group-title="Musica",Mi Musica HD
+http://m3u.iptvla.xyz/usuarios/src4/MiMusicaHD/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png" group-title="Entretenimiento",Miami TV
+http://m3u.iptvla.xyz/usuarios/src4/MiamiTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="Noticias",Milenio
+http://m3u.iptvla.xyz/usuarios/src1/Milenio/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/pI5ze/cb6fa7f177.png" group-title="Deportes",MLB Network
+http://m3u.iptvla.xyz/usuarios/src5/MLBNetwork/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/tcPyX/933e3b17e1.png" group-title="España",Movistar Comedia
+http://m3u.iptvla.xyz/usuarios/src5/MoviComedia/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/tcNE5/7aa9899bd2.png" group-title="Deportes",Movistar Deportes
+http://m3u.iptvla.xyz/usuarios/src5/MoviDeportes/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/tcNIh/64eddc27d3.png" group-title="Deportes",Movistar Deportes 2
+http://m3u.iptvla.xyz/usuarios/src5/MoviDeportes2/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/tcOvk/be7e131035.png" group-title="Deportes",Movistar Futbol
+http://m3u.iptvla.xyz/usuarios/src5/MoviFutbol/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/tdoew/881172c61c.png" group-title="España",Movistar Xtra
+http://m3u.iptvla.xyz/usuarios/src5/MoviXtra/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xh3hv/30cc1bff4d.png" group-title="Entretenimiento",Mr. Bean 24/7
+http://m3u.iptvla.xyz/usuarios/src3/MrBean/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/maO70/72d9b8319f.png" group-title="Musica",MTV
+http://m3u.iptvla.xyz/usuarios/src1/MTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGym/06df5cd57a.png" group-title="Musica",MTV Live HD
+http://m3u.iptvla.xyz/usuarios/src1/MTVLive/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mB993/e7befece5a.png" group-title="Mexico",Multimedios
+http://m3u.iptvla.xyz/usuarios/src1/Multimedios/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/pIdJh/69253eb40c.png" group-title="Peliculas",MultiPremier
+http://m3u.iptvla.xyz/usuarios/src5/MultiPremier/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLGC/27b0d43eab.png" group-title="Entretenimiento",Mundo Fox
+http://m3u.iptvla.xyz/usuarios/src5/MundoFox/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/moONA/fcb99b4ee9.jpg" group-title="Entretenimiento",MundoMax
+http://m3u.iptvla.xyz/usuarios/src5/MundoMax/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/uYfGF/e22cae72d2.png" group-title="Musica",Musica: 90s
+http://m3u.iptvla.xyz/usuarios/src5/MC_90s/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/uYfGF/e22cae72d2.png" group-title="Musica",Musica: EDM
+http://m3u.iptvla.xyz/usuarios/src5/MC_EDM/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/uYfGF/e22cae72d2.png" group-title="Musica",Musica: Hit List
+http://m3u.iptvla.xyz/usuarios/src5/MC_HitList/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/uYfGF/e22cae72d2.png" group-title="Musica",Musica: Mexicana
+http://m3u.iptvla.xyz/usuarios/src5/MC_Mexicana/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/uYfGF/e22cae72d2.png" group-title="Musica",Musica: Musica Urbana
+http://m3u.iptvla.xyz/usuarios/src5/MC_Urbana/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/uYfGF/e22cae72d2.png" group-title="Musica",Musica: Pop Hits
+http://m3u.iptvla.xyz/usuarios/src5/MC_PopHits/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/uYfGF/e22cae72d2.png" group-title="Musica",Musica: Pop Latino
+http://m3u.iptvla.xyz/usuarios/src5/MC_PopLatino/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xuJNI/f239c35793.png" group-title="Noticias",MVS Noticias
+http://m3u.iptvla.xyz/usuarios/src4/MVS/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/y0QiQ/5d3daf3b2c.png" group-title="Entretenimiento",Naruto 24/7
+http://m3u.iptvla.xyz/usuarios/src3/Naruto/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/msJjE/f96602e474.png" group-title="Cultura",Nat Geo
+http://m3u.iptvla.xyz/usuarios/src1/NatGeo/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/wZVOI/399ecc3f7e.png" group-title="Infantiles",Nat Geo Kids
+http://m3u.iptvla.xyz/usuarios/src1/NatGeoKids/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb2Rd/9c56f73248.png" group-title="Cultura",Nat Geo Wild
+http://m3u.iptvla.xyz/usuarios/src1/NatGeoWild/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/rR8Mx/d098afd8f4.png" group-title="España",Neox
+http://m3u.iptvla.xyz/usuarios/src4/Neox/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw51W/3b10c832dd.png" group-title="Infantiles",Nick HD
+http://m3u.iptvla.xyz/usuarios/src5/Nick/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw57k/d21813a8f6.png" group-title="Infantiles",Nick JR
+http://m3u.iptvla.xyz/usuarios/src1/NickJR/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb3Dz/67ee44ac5a.png" group-title="Infantiles",Nick Toons
+http://m3u.iptvla.xyz/usuarios/src1/NickToons/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mVS4R/93935891ed.png" group-title="Infantiles",Nickelodeon
+http://m3u.iptvla.xyz/usuarios/src1/Nickelodeon/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nC0OX/b5081cfda8.png" group-title="Argentina",ORBE 21
+http://m3u.iptvla.xyz/usuarios/src4/ORBE21/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xa3bZ/f544eec079.png" group-title="Entretenimiento",Padre de Familia 24/7
+http://m3u.iptvla.xyz/usuarios/src3/PadreDeFamilia/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nsW5e/6bbcc438c7.png" group-title="Peliculas",Paramount
+http://m3u.iptvla.xyz/usuarios/src5/Paramount/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/uZobT/a86c94ccc6.png" group-title="Peru",PERU: América TV
+http://m3u.iptvla.xyz/usuarios/src4/AmericaTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xuK7a/47fd595e06.png" group-title="Peru",PERU: Antares TV
+http://m3u.iptvla.xyz/usuarios/src4/AntaresTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/uZoIA/e0c858397b.png" group-title="Peru",PERU: BHTV
+http://m3u.iptvla.xyz/usuarios/src4/BHTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reI44/c226288315.png" group-title="Peru",PERU: La Luz
+http://m3u.iptvla.xyz/usuarios/src4/LaLuzPeru/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/qd17J/aefa929565.png" group-title="Peru",PERU: Latina
+http://m3u.iptvla.xyz/usuarios/src4/LatinaPeru/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reI1O/492bd7c058.png" group-title="Peru",PERU: Plus TV
+http://m3u.iptvla.xyz/usuarios/src4/PlusTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvqIW/f126e1767d.png" group-title="Peru",PERU: RBC
+http://m3u.iptvla.xyz/usuarios/src4/RBC/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reHZ3/31606bea77.png" group-title="Peru",PERU: RPP
+http://m3u.iptvla.xyz/usuarios/src4/RPP/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/q7Qp1/dc37baeb47.png" group-title="Peru",PERU: TV Peru
+http://m3u.iptvla.xyz/usuarios/src4/TVPeru/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reHTY/cd49899b1c.png" group-title="Peru",PERU: Willax TV
+http://m3u.iptvla.xyz/usuarios/src4/WillaxTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xa5eP/a2267d5313.png" group-title="Entretenimiento",Pokemon 24/7
+http://m3u.iptvla.xyz/usuarios/src3/Pokemon/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mVT4M/a54f2b8fcb.png" group-title="Deportes",PX TV
+http://m3u.iptvla.xyz/usuarios/src4/PXTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xa566/7a55632f8c.png" group-title="Entretenimiento",Ranma 1/2 24/7
+http://m3u.iptvla.xyz/usuarios/src3/Ranma/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/rR8KU/39046fe455.png" group-title="Mexico",RCG TV Coahuila
+http://m3u.iptvla.xyz/usuarios/src4/RCGTVCoahuila/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/o8XAY/f5067b3a35.png" group-title="Entretenimiento",RCN
+http://m3u.iptvla.xyz/usuarios/src5/RCN/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/u8dw2/09ebeff330.png" group-title="Entretenimiento",RCN Novelas
+http://m3u.iptvla.xyz/usuarios/src4/RCNNovelas/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nB5fs/d0fbb8562f.png" group-title="Deportes",Real Madrid TV
+http://m3u.iptvla.xyz/usuarios/src4/RealMadridTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mB8FA/fd9624cae2.png" group-title="Musica",Ritmoson Latino
+http://m3u.iptvla.xyz/usuarios/src1/RitmosonLatino/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/moPpf/233d651bab.png" group-title="Noticias",RT HD
+http://m3u.iptvla.xyz/usuarios/src4/RTHD/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xa5FE/adef56eb32.png" group-title="Entretenimiento",Scooby Doo 24/7
+http://m3u.iptvla.xyz/usuarios/src3/ScoobyDoo/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/msGV1/093178617f.png" group-title="Entretenimiento",Sony HD
+http://m3u.iptvla.xyz/usuarios/src1/SonyHD/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reX9a/e5e9972612.png" group-title="Peliculas",Space HD
+http://m3u.iptvla.xyz/usuarios/src1/SpaceHD/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/o8Yp1/08f8449b14.png" group-title="Brasil",STB Brasil
+http://m3u.iptvla.xyz/usuarios/src4/STBBrasil/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGkk/b6e3cc25e6.png" group-title="Peliculas",Studio Universal
+http://m3u.iptvla.xyz/usuarios/src1/StudioUniversal/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xh3k9/28828ab2ca.png" group-title="Entretenimiento",Super Campeones 24/7
+http://m3u.iptvla.xyz/usuarios/src3/SuperCampeones/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mwqrg/e525edd989.png" group-title="Peliculas",SyFy
+http://m3u.iptvla.xyz/usuarios/src1/SyFy/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Taquilla 1
+http://m3u.iptvla.xyz/usuarios/src5/Taquilla1/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Taquilla 2
+http://m3u.iptvla.xyz/usuarios/src5/Taquilla2/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Taquilla 3
+http://m3u.iptvla.xyz/usuarios/src5/Taquilla3/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Taquilla 4
+http://m3u.iptvla.xyz/usuarios/src5/Taquilla4/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Taquilla 5
+http://m3u.iptvla.xyz/usuarios/src5/Taquilla5/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/vKOP3/c19fcde9b2.png" group-title="Entretenimiento",TBS Very Funny
+http://m3u.iptvla.xyz/usuarios/src1/TBSVeryFunny/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mP1b6/411b64dc27.png" group-title="Peliculas",TCM
+http://m3u.iptvla.xyz/usuarios/src1/TCM/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLur/cf2e6a6f87.png" group-title="Deportes",TDN
+http://m3u.iptvla.xyz/usuarios/src5/TDN/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mP29u/cbd4d7f5c3.png" group-title="Entretenimiento",TeleFórmula
+http://m3u.iptvla.xyz/usuarios/src1/TeleFormula/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0PI6/05b7191ea6.png" group-title="Musica",Telehit
+http://m3u.iptvla.xyz/usuarios/src1/Telehit/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/ngQ15/fc7caebab2.png" group-title="Colombia",Telemedellin
+http://m3u.iptvla.xyz/usuarios/src4/Telemedellin/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLe8/21bf87649b.png" group-title="Entretenimiento",Telemundo
+http://m3u.iptvla.xyz/usuarios/src5/Telemundo/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLe8/21bf87649b.png" group-title="Entretenimiento",Telemundo 49
+http://m3u.iptvla.xyz/usuarios/src4/Telemundo2/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nC0Re/ee57b9e394.png" group-title="Argentina",Telpin Tv
+http://m3u.iptvla.xyz/usuarios/src4/TelpinTv/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mNvUJ/fe599e7cee.png" group-title="Musica",Tigo Music
+http://m3u.iptvla.xyz/usuarios/src4/TigoMusic/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw5bY/e2bab1e46e.png" group-title="Infantiles",Tiin
+http://m3u.iptvla.xyz/usuarios/src1/Tiin/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLF3/ceac7e3575.png" group-title="Entretenimiento",TLC
+http://m3u.iptvla.xyz/usuarios/src1/TLC/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLfh/5d97ba6f89.png" group-title="Entretenimiento",Tlnovelas
+http://m3u.iptvla.xyz/usuarios/src5/Tlnovelas/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLfh/5d97ba6f89.png" group-title="Entretenimiento",Tlnovelas Op. 2
+http://m3u.iptvla.xyz/usuarios/src5/Tlnovelas2/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/uDFJx/6709e1008e.png" group-title="Venezuela",TLT Venezuela
+http://m3u.iptvla.xyz/usuarios/src4/TLTVenezuela/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrtc/1387c3c004.png" group-title="Argentina",TN Canal
+http://m3u.iptvla.xyz/usuarios/src4/TNCanal/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/vKP8k/b5666df9d4.png" group-title="Peliculas",TNT
+http://m3u.iptvla.xyz/usuarios/src1/TNT/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/vKOIx/06a80881a6.png" group-title="Entretenimiento",TNT Series
+http://m3u.iptvla.xyz/usuarios/src1/TNTSeries/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xTpGp/5bc4e5d1d6.png" group-title="Deportes",TNT Sports
+http://m3u.iptvla.xyz/usuarios/src5/TNTSports/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xa5uD/7e7e1ebc1a.png" group-title="Entretenimiento",Tom y Jerry 24/7
+http://m3u.iptvla.xyz/usuarios/src3/TomYJerry/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw5oi/09350aa9a0.png" group-title="Infantiles",Tooncast
+http://m3u.iptvla.xyz/usuarios/src1/Tooncast/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrtY/d94dbb6ccd.png" group-title="Venezuela",TRT
+http://m3u.iptvla.xyz/usuarios/src4/TRT/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw5r2/486241bb2e.png" group-title="Entretenimiento",TruTV
+http://m3u.iptvla.xyz/usuarios/src1/TruTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xW4jT/602dda8d99.png" group-title="Musica",Tu Musica HD
+http://m3u.iptvla.xyz/usuarios/src5/TuMusicaHD/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/o8YpV/f18d1a478e.png" group-title="Brasil",TVBrasil
+http://m3u.iptvla.xyz/usuarios/src4/TVBrasil/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mVTf6/f3116d0280.png" group-title="España",TVE
+http://m3u.iptvla.xyz/usuarios/src1/TVE/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/rR8IK/364a13e4d7.png" group-title="Mexico",TVMas Veracruz
+http://m3u.iptvla.xyz/usuarios/src4/TVMasVeracruz/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/qmd5g/43e67c54db.png" group-title="Ecuador",TVN Ecuador
+http://m3u.iptvla.xyz/usuarios/src4/TVNEcuador/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrvp/3eaf3d4de0.png" group-title="Venezuela",TVO Canal 23
+http://m3u.iptvla.xyz/usuarios/src4/TVOCanal23/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/rR8K9/06191357cf.png" group-title="Mexico",TVT (TV Tlaxcala)
+http://m3u.iptvla.xyz/usuarios/src4/TVTlaxcala/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nTbIR/127d8b5919.png" group-title="Deportes",Tyc Sports
+http://m3u.iptvla.xyz/usuarios/src5/TycSports/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",UCSG TV
+http://m3u.iptvla.xyz/usuarios/src4/UCSGTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLoc/e5d45c354b.png" group-title="Deportes",UFC Network
+http://m3u.iptvla.xyz/usuarios/src5/UFCNetwork/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLzy/cd6ff326e5.png" group-title="Entretenimiento",Unicable
+http://m3u.iptvla.xyz/usuarios/src1/Unicable/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/monkP/4502e76205.png" group-title="Peliculas",Universal
+http://m3u.iptvla.xyz/usuarios/src1/Universal/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mP22k/d11bfadf26.png" group-title="Peliculas",Universal HD
+http://m3u.iptvla.xyz/usuarios/src1/UniversalHD/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLcu/7ea24f7b73.png" group-title="Entretenimiento",Univision
+http://m3u.iptvla.xyz/usuarios/src5/Univision/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/tdSaI/025a963e05.png" group-title="Deportes",Univisión Deportes
+http://m3u.iptvla.xyz/usuarios/src5/UnivisionDeportes/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLw0/cf67511fa3.png" group-title="Deportes",Univisión TDN
+http://m3u.iptvla.xyz/usuarios/src5/UnivisionTDN/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0NXX/d54f427175.png" group-title="Entretenimiento",Univision Tlnovelas
+http://m3u.iptvla.xyz/usuarios/src5/UnivisionTlnovelas/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xuM5G/d0c1baea3e.PNG" group-title="USA",USA: Bravo! HD
+http://m3u.iptvla.xyz/usuarios/src5/BravoHD/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xuM6e/e0312dba8c.png" group-title="USA",USA: CBS HD
+http://m3u.iptvla.xyz/usuarios/src5/CBSHD/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbM0H/f69315831b.png" group-title="USA",USA: Cinemax East
+http://m3u.iptvla.xyz/usuarios/src5/CinemaxEast/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xuM6G/9684d7be88.png" group-title="USA",USA: CW
+http://m3u.iptvla.xyz/usuarios/src5/CW/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mVU7r/07c337d6d2.png" group-title="USA",USA: ESPN 1
+http://m3u.iptvla.xyz/usuarios/src5/ESPN1EN/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGSP/45ab2c58f3.png" group-title="USA",USA: ESPN 2
+http://m3u.iptvla.xyz/usuarios/src5/ESPN2EN/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGZ1/47e0e1e430.png" group-title="USA",USA: Fox Sports 1
+http://m3u.iptvla.xyz/usuarios/src5/FoxSports1EN/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mwe6K/af7e32f4e0.png" group-title="USA",USA: Fox Sports 2
+http://m3u.iptvla.xyz/usuarios/src5/FoxSports2EN/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLmr/bfa50e6e5c.png" group-title="USA",USA: Fox Sports 3
+http://m3u.iptvla.xyz/usuarios/src5/FoxSports3EN/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xuM6o/4cad623961.png" group-title="USA",USA: Hallmark
+http://m3u.iptvla.xyz/usuarios/src5/Hallmark/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/wXpBG/491f7e6a2e.png" group-title="USA",USA: HBO
+http://m3u.iptvla.xyz/usuarios/src5/HBOEN/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xuM9i/c634ff5280.png" group-title="USA",USA: HBO Comedy
+http://m3u.iptvla.xyz/usuarios/src5/HBOComedy/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbM0H/f69315831b.png" group-title="USA",USA: HBO Signature
+http://m3u.iptvla.xyz/usuarios/src5/HBOSignatureEN/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xuM9C/c191111316.png" group-title="USA",USA: HBO Zone
+http://m3u.iptvla.xyz/usuarios/src5/HBOZone/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xuM6X/529b2473ba.png" group-title="USA",USA: NBC HD
+http://m3u.iptvla.xyz/usuarios/src5/NBCHD/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xuM7m/18890d1cc3.png" group-title="USA",USA: NBC Sports
+http://m3u.iptvla.xyz/usuarios/src5/NBCSports/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xuM7I/4552f152f3.png" group-title="USA",USA: NBCSN
+http://m3u.iptvla.xyz/usuarios/src5/NBCSN/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xuM7R/8237e83e72.png" group-title="USA",USA: NFL NOW
+http://m3u.iptvla.xyz/usuarios/src5/NFLNOW/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xuM8i/c7d9150813.png" group-title="USA",USA: Showtime
+http://m3u.iptvla.xyz/usuarios/src5/Showtime/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xuM8u/baa0a321b8.png" group-title="USA",USA: Starz Cinema
+http://m3u.iptvla.xyz/usuarios/src5/StarzCinema/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xuM8M/32e912bdc0.png" group-title="USA",USA: Starz Encore
+http://m3u.iptvla.xyz/usuarios/src5/StarzEncore/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrwb/338b2694eb.png" group-title="Venezuela",Vale TV
+http://m3u.iptvla.xyz/usuarios/src4/ValeTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/maO5i/8473676ac5.png" group-title="Musica",VH1 HD
+http://m3u.iptvla.xyz/usuarios/src5/VH1/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/sY4jC/1a83dde158.png" group-title="Musica",Video Rola
+http://m3u.iptvla.xyz/usuarios/src5/VideoRola/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xiFQH/5d7100d8b5.png" group-title="Musica",Videos: 1Music
+http://m3u.iptvla.xyz/usuarios/src4/1Music/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xiFW7/6c20b53da7.png" group-title="Musica",Videos: 4Music
+http://m3u.iptvla.xyz/usuarios/src4/4Music/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xiG5n/1d4d2b53b2.png" group-title="Musica",Videos: Clubbing TV
+http://m3u.iptvla.xyz/usuarios/src4/ClubbingTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xiG1p/ea74af1045.png" group-title="Musica",Videos: Company Radio TV
+http://m3u.iptvla.xyz/usuarios/src4/CompanyTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xiG6z/fd2562c301.png" group-title="Musica",Videos: Cool 103.7 TV
+http://m3u.iptvla.xyz/usuarios/src4/Cool103TV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xiGcI/490a213a04.png" group-title="Musica",Videos: Dream TV
+http://m3u.iptvla.xyz/usuarios/src4/DreamTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xiGaL/3363faf701.png" group-title="Musica",Videos: La Radio PR
+http://m3u.iptvla.xyz/usuarios/src4/LaRadioPR/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/q9uoz/89d364b29e.png" group-title="Musica",Virgin TV
+http://m3u.iptvla.xyz/usuarios/src4/VirginTV/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/qez5F/ea76437016.png" group-title="Chile",VTV2 Chile
+http://m3u.iptvla.xyz/usuarios/src4/VTV2Chile/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/tsJCH/d6e69b6e9b.png" group-title="Puerto Rico",Wapa PR
+http://m3u.iptvla.xyz/usuarios/src4/WapaPR/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mwdML/61aec19cb5.png" group-title="Entretenimiento",Warner Channel HD
+http://m3u.iptvla.xyz/usuarios/src1/WarnerChannelHD/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/pdlrC/a1d2e6ddd5.png" group-title="Deportes",Win Sports
+http://m3u.iptvla.xyz/usuarios/src5/WinSports/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mVSP4/eb8b0a0e90.png" group-title="Noticias",WOBI
+http://m3u.iptvla.xyz/usuarios/src1/WOBI/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/p9MDp/5a6d5fec70.png" group-title="Deportes",WWE Network
+http://m3u.iptvla.xyz/usuarios/src5/WWENetwork/Ismael.Diaz/ZEa.m3u8
